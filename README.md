@@ -137,5 +137,3 @@ Building scalable web applications with **Django**, **React**, **Node.js**, **My
 ### 💡 “First solve the problem. Then write the code.”
 
 </div>
-
-## 🌟 Featured Projects
